@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'masaleiro', // Usually your GitHub org/user name.
+  organizationName: 'VictorJanowsky', // Usually your GitHub org/user name.
   projectName: 'docusaurus-ghpages', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Teste',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
