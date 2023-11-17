@@ -95,6 +95,10 @@ const config = {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+               {
+                label: 'Tutorial',
+                to: '/docs/intro2',
+              },
             ],
           },
           {
